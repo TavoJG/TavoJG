@@ -1,6 +1,6 @@
 # TavoJG - Web Developer and more...
 - 👋 Hi, I’m @TavoJG
-- 👀 I’m interested in Full-Stack web developing
+- 👀 I’m interested in Back-end web developing
 -  :sparkles: I also have experience into **Statistical Analysis** and **Big Data**
 - 🌱 I’m currently learning CI/CD procedures
 - 💞️ I’m looking to collaborate on Open Source projects
